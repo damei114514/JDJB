@@ -1,7 +1,7 @@
 # JDJB
 个人自用最全主库，集合可用脚本，适用于青龙面板。
 
-频道：https://t.me/KingRan521
+频道：https://jq.qq.com/?_wv=1027&k=8fAsK9Z1
 
 拉库命令：
 
